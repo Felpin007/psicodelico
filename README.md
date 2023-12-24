@@ -1,6 +1,6 @@
 # Psicodélico
 
-:warning: **AVISO: Este projeto contém efeitos visuais psicodélicos que podem causar desconforto ou convulsões para pessoas com epilepsia fotosensível. Prossiga com cautela.**
+:warning: **AVISO: Este projeto contém efeitos visuais psicodélicos que podem causar desconforto ou convulsões para pessoas com epilepsia fotosensível. Prossiga com cautela.
 
 https://felpin007.github.io/psicodelico/
 
