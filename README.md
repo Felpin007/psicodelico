@@ -23,11 +23,3 @@ Para usar o Psicodélico, basta abrir o arquivo `index.html` no seu navegador we
 
 - HTML: Usado para estruturar a página web.
 - JavaScript: Usado para adicionar interatividade e funcionalidade à página web.
-
-## Melhorias Futuras:
-
-Conforme este projeto continue a evoluir, planejamos adicionar mais funcionalidades e melhorar a experiência do usuário. Fique atento para as atualizações!
-
----
-
-Por favor, note que este é um arquivo README.md básico e você pode querer adicionar mais seções como "Instalação", "Contribuição", "Licença", etc., dependendo das necessidades do seu projeto.
