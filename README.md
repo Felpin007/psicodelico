@@ -1,11 +1,10 @@
 # Psicodélico
 
-:warning: **AVISO: Este projeto contém efeitos visuais psicodélicos que podem causar desconforto ou convulsões para pessoas com epilepsia fotosensível. Prossiga com cautela.
+:warning: **AVISO: Este projeto contém efeitos visuais psicodélicos que podem causar desconforto ou convulsões para pessoas com epilepsia fotosensível. Prossiga com cautela.**
 
 https://felpin007.github.io/psicodelico/
 
 Psicodélico é um projeto web interativo que exibe a beleza dos gradientes de cores. O projeto é construído usando HTML e JavaScript.
-
 ## Funcionalidades:
 
 1. **Exibição de Gradiente**: A principal característica deste projeto é a exibição de um belo gradiente linear que transita do vermelho, através das cores do arco-íris, até o violeta.
