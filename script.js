@@ -1,6 +1,16 @@
 let crazyMode = false;
 
+let firstClick = true;
+
 gradient.addEventListener('click', (e) => {
+    if (firstClick) {
+        alert("Aviso: Este site pode potencialmente desencadear convulsões para pessoas com epilepsia fotossensível. A visualização é por sua conta e risco.");
+        let confirmation = confirm("Você deseja continuar?");
+        if (!confirmation) {
+            window.close(); // Fecha a janela se o usuário não confirmar
+        }
+        firstClick = false;
+    }
     crazyMode = !crazyMode;
 });
 
