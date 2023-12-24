@@ -16,6 +16,8 @@ Psicodélico é um projeto web interativo que exibe a beleza dos gradientes de c
 
 Para usar o Psicodélico, basta abrir o arquivo `index.html` no seu navegador web. Mova o mouse para ver o efeito do gradiente radial e clique em qualquer lugar do gradiente para embaralhar as cores.
 
+![](amostra.png "Animação com Neve")
+
 ## Tecnologias Utilizadas:
 
 - HTML: Usado para estruturar a página web.
