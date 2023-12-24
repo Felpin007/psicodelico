@@ -1,5 +1,5 @@
 # Psicodélico
-
+## README gerado pela mesma IA usada nos projetos ([PHIND](https://phind.com)).
 :warning: **AVISO: Este projeto contém efeitos visuais psicodélicos que podem causar desconforto ou convulsões para pessoas com epilepsia fotosensível. Prossiga com cautela.**
 
 https://felpin007.github.io/psicodelico/
