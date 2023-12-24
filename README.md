@@ -1,6 +1,6 @@
 # Psicodélico
 
-:warning: **AVISO: Este projeto contém efeitos visuais psicodélicos que podem causar desconforto ou convulsões para pessoas com epilepsia fotosensível. Prossiga com cautela.**
+:warning::warning: **AVISO: Este projeto contém efeitos visuais psicodélicos que podem causar desconforto ou convulsões para pessoas com epilepsia fotosensível. Prossiga com cautela.**
 
 Psicodélico é um projeto web interativo que exibe a beleza dos gradientes de cores. O projeto é construído usando HTML e JavaScript.
 
